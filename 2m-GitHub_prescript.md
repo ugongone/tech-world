@@ -17,3 +17,5 @@
     - GitHub はソースコードだけでなく、文書データの管理にも優れている。ホワイトハウスや国土地理院などの行政機関も GitHub を用いて文書管理を行なっている。
       - https://github.com/whitehouse
       - https://github.com/gsi-cyberjapan
+- まとめ
+  - みなさんもぜひ学んでみてはいかがでしょうか
